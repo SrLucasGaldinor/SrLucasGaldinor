@@ -11,7 +11,7 @@
   <a href="https://github.com/SrLucasGaldinor?tab=repositories">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SrLucasGaldinor&show_icons=true&theme=dark" alt="Lucas"/>
   <a href="https://github.com/SrLucasGaldinor?tab=repositories">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLucasGaldinor&layout=compact&langs_count=4&theme=dark" alt="Lucas Galdino"/>     
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLucasGaldinor&layout=compact&langs_count=4&theme=dark" alt="Lucas Galdino"/>
 </div>   
 
 ---
@@ -31,9 +31,7 @@
 </div><br/>
 
 ---
-Apaixonado por Tecnologia, cursando Cibersegurança com o objetivo de me tornar um Cybersecurity Enginner e contribuir para o desenvolvimento de sistemas cada vez mais seguros...
+<b>Apaixonado por Tecnologia, cursando Cibersegurança com o objetivo de me tornar um Cybersecurity Enginner e contribuir para o desenvolvimento de sistemas cada vez mais seguros...<b/>
 
 ---
-<p align="center">
   <img align="center"  height="500" width="1100" src="https://i.redd.it/jb0u633yc7v81.gif" alt="Imagem">
-</p>
