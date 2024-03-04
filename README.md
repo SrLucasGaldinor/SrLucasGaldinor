@@ -7,11 +7,12 @@
 [![WhatsAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547997316351)
 [![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgaldinorosa2904@gmail.com)
 
- <div>
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SrLucasGaldinor&show_icons=true&theme=dark" alt="Lucas"/>
-<a href="https://github.com/SrLucasGaldinor">
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLucasGaldinor&layout=compact&langs_count=4&theme=dark" alt="Lucas Galdino"/>     
- </div>   
+<div>
+  <a href="https://github.com/SrLucasGaldinor?tab=repositories">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SrLucasGaldinor&show_icons=true&theme=dark" alt="Lucas"/>
+  <a href="https://github.com/SrLucasGaldinor?tab=repositories">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLucasGaldinor&layout=compact&langs_count=4&theme=dark" alt="Lucas Galdino"/>     
+</div>   
 
 ---
 ### Tecnologias 🖥️
