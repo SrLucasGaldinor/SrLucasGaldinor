@@ -6,13 +6,10 @@
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-galdino-592000267/)
 [![WhatsAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547997316351)
 [![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgaldinorosa2904@gmail.com)
-
-<div>
     
 ![Galdino GitHub stats](https://github-readme-stats.vercel.app/api?username=SrLucasGaldinor&show_icons=true&theme=dark)
     <a href="https://github.com/SrLucasGaldinor">
     <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLucasGaldinor&layout=compact&langs_count=4&theme=dark" alt="Lucas Galdino"/>
-</div>
 
 ---
 ### Tecnologias 🖥️
