@@ -24,9 +24,9 @@
 </div>
 
 <div align="center">
-  <img height="165em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrLucasGaldinor&theme=discord_old_blurple" alt="Lucas"/>
-  <img height="165em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrLucasGaldinor&theme=discord_old_blurple" alt="Lucas Galdino"/>
-  <img height="165em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrLucasGaldinor&theme=discord_old_blurple&utcOffset=-3" alt="Lucas Galdino"/>
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrLucasGaldinor&theme=discord_old_blurple" alt="Lucas"/>
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrLucasGaldinor&theme=discord_old_blurple" alt="Lucas Galdino"/>
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrLucasGaldinor&theme=discord_old_blurple&utcOffset=-3" alt="Lucas Galdino"/>
 </div>   
 
 ---
