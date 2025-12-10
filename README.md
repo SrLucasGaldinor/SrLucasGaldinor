@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />
+  <img align="center" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />
 </div>
 
 <div align="center">
@@ -27,9 +27,9 @@
 <br/>
 
 <div align="center">
-  <img height="175em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrLucasGaldinor&theme=nord_dark" alt="Lucas"/>
-  <img height="175em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrLucasGaldinor&theme=nord_dark" alt="Lucas Galdino"/>
-  <img height="175em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrLucasGaldinor&theme=nord_dark&utcOffset=-3" alt="Lucas Galdino"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrLucasGaldinor&theme=nord_dark" alt="Lucas"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrLucasGaldinor&theme=nord_dark" alt="Lucas Galdino"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrLucasGaldinor&theme=nord_dark&utcOffset=-3" alt="Lucas Galdino"/>
 </div>   
 
 ---
