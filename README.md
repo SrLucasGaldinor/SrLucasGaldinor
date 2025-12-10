@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />
+  <img align="center" height="150" src="https://cdn-icons-png.freepik.com/512/3430/3430812.png?ga=GA1.1.731925829.1765224462" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C8A2C8&width=900&size=22&center=true&lines=I'm+from+Blumenau!;I'm+a+Software+Development...;I+also+study+Cybersecurity;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7289da&width=900&size=22&center=true&lines=I'm+from+Blumenau!;I'm+a+Software+Development...;I+also+study+Cybersecurity;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 ---
@@ -24,9 +24,9 @@
 </div>
 
 <div align="center">
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrLucasGaldinor&theme=nord_dark" alt="Lucas"/>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrLucasGaldinor&theme=nord_dark" alt="Lucas Galdino"/>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrLucasGaldinor&theme=nord_dark&utcOffset=-3" alt="Lucas Galdino"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrLucasGaldinor&theme=discord_old_blurple" alt="Lucas"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrLucasGaldinor&theme=discord_old_blurple" alt="Lucas Galdino"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrLucasGaldinor&theme=discord_old_blurple&utcOffset=-3" alt="Lucas Galdino"/>
 </div>   
 
 ---
@@ -40,5 +40,6 @@
     <img align="center" alt="JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img style="background-color white" align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="PTSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
     <img align="center" alt="GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
