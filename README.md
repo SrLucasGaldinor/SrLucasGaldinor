@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" height="150" src="https://cdn-icons-png.freepik.com/512/3430/3430812.png?ga=GA1.1.731925829.1765224462" />
+  <img align="center" height="135" src="https://cdn-icons-png.freepik.com/512/3430/3430812.png?ga=GA1.1.731925829.1765224462" />
 </div>
 
 <div align="center">
