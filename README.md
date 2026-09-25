@@ -1,16 +1,13 @@
 <div align="center">
-  <img height="135" src="https://cdn-icons-png.freepik.com/512/3430/3430812.png?ga=GA1.1.731925829.1765224462" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <img alt="Cartão estilo Neofetch com o perfil de Lucas Galdino: Suporte de TI N1, laboratório de infraestrutura Windows e graduação em Segurança Cibernética" src="dark_mode.svg">
+  </picture>
 </div>
 
 <div align="center">
-  <samp>
-    <br>
-    Hi there! I'm <b>Lucas Galdino.</b>
-  </samp>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7289da&width=900&size=22&center=true&lines=I'm+from+Blumenau!;I'm+a+Software+Developer...;I+also+study+Cybersecurity;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7289da&width=700&size=22&center=true&vCenter=true&lines=Suporte+de+TI+N1+%7C+Help+Desk;Infraestrutura+Windows+e+Active+Directory;Estudante+de+Seguran%C3%A7a+Cibern%C3%A9tica;Blumenau%2FSC+%C2%B7+Aberto+a+novas+oportunidades" alt="Suporte de TI N1, infraestrutura Windows e Segurança Cibernética"/>
 </div>
 
 <div align="center">
@@ -24,13 +21,20 @@
 ---
 
 <div align="center">
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrLucasGaldinor&theme=discord_old_blurple"/>
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrLucasGaldinor&theme=discord_old_blurple"/>
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrLucasGaldinor&theme=discord_old_blurple&utcOffset=-3"/>
-</div>
-
----
 
 ### 🖥️ Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,spring,mysql,postgres,git&perline=9)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=windows,java,spring,postgres,mysql,git,github,js,html,css,bootstrap&perline=11)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrLucasGaldinor&theme=discord_old_blurple"/>
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrLucasGaldinor&theme=discord_old_blurple"/>
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Arte ASCII baseada em ícone de <a href="https://www.flaticon.com/">Freepik / Flaticon</a></sub>
+</div>
